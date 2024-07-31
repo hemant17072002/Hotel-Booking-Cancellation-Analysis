@@ -1,2 +1,3 @@
 # Hotel-Booking-Cancellation-Analysis
 Hotel Booking Cancellation Analysis
+This project aims to analyze hotel booking cancellations using a dataset sourced from a hotel management system. The dataset includes various features such as booking dates, customer demographics, booking channels, and special requests. The goal is to explore patterns in booking cancellations, identify key factors influencing cancellations, and develop predictive models to forecast cancellation likelihood. By understanding these factors, the project seeks to provide insights that can help hotel managers optimize booking policies, improve revenue management strategies, and enhance overall customer satisfaction.
